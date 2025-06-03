@@ -32,7 +32,7 @@ super_trunfo/
 └── README.md             # Instruções e documentação do projeto
 ```
 
-## 🛠️ Como compilar e executar
+##  Como compilar e executar
 
 1. Clone o repositório:
 ```bash
@@ -61,4 +61,4 @@ gcc super_trunfo.c -o super_trunfo
 
 Desenvolvido por: **Michele Cardoso**  
 Curso: Ciência da Computação – Estácio  
-Data: Junlho/2025
+Data: Julho/2025

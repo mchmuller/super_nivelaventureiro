@@ -3,7 +3,7 @@
 
 Este projeto é a continuação do Super Trunfo em C, agora com **menu interativo** e **comparação de atributos** entre cartas. O foco deste desafio é aplicar estruturas de decisão (`switch` e `if-else`) para criar um jogo mais dinâmico e realista.
 
-## 🧠 Conceitos aplicados
+##  Conceitos aplicados
 
 - Operadores relacionais e lógicos
 - Estrutura `switch-case`
@@ -11,7 +11,7 @@ Este projeto é a continuação do Super Trunfo em C, agora com **menu interativ
 - Cálculo de densidade demográfica
 - Exibição formatada e lógica de comparação
 
-## 📌 O que o programa faz
+##  O que o programa faz
 
 - Armazena dados de **duas cartas** do Super Trunfo com informações de cidades fictícias
 - Calcula a densidade demográfica (população / área)
@@ -26,7 +26,7 @@ Este projeto é a continuação do Super Trunfo em C, agora com **menu interativ
   - Densidade demográfica: vence quem tem o **menor valor**
   - Em caso de empate: exibe "Empate!"
 
-## 🛠️ Como compilar e executar
+##  Como compilar e executar
 
 1. Clone o repositório:
 ```bash
@@ -44,7 +44,7 @@ gcc super_trunfo_interativo.c -o super_trunfo_interativo
 ./super_trunfo_interativo
 ```
 
-## 🕹️ Exemplo de uso
+##  Exemplo de uso
 
 ```
 === MENU DE COMPARAÇÃO ===
@@ -72,6 +72,6 @@ Resultado: São Paulo venceu!
 
 ---
 
-Desenvolvido por: **Seu Nome Aqui**  
+Desenvolvido por: **Michele Cardoso**  
 Curso: Ciência da Computação – Estácio  
-Data: Junho/2025
+Data: Julho/2025
